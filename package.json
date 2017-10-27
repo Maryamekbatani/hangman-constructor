@@ -1,0 +1,19 @@
+{
+  "name": "hangmanconstructor",
+  "version": "1.0.0",
+  "description": "Hangman Game using constructor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryamekbatani/hangman-constructor.git"
+  },
+  "author": "Maryam Ekbatani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryamekbatani/hangman-constructor/issues"
+  },
+  "homepage": "https://github.com/Maryamekbatani/hangman-constructor#readme"
+}
